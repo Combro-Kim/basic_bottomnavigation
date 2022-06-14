@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "991678733794",
+    "firebase_url": "https://poin-df-default-rtdb.firebaseio.com",
+    "project_id": "poin-df",
+    "storage_bucket": "poin-df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991678733794:android:72a50724bac4437c226dbb",
+        "android_client_info": {
+          "package_name": "com.example.poin_df"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991678733794-avemmq8svhpo9pfji0fv58luhua6udfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdnrE5RqArS6gUVYrkqXuLYZdIAXhKdnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991678733794-avemmq8svhpo9pfji0fv58luhua6udfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
