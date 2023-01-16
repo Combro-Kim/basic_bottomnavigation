@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "991678733794",
-    "firebase_url": "https://poin-df-default-rtdb.firebaseio.com",
-    "project_id": "poin-df",
-    "storage_bucket": "poin-df.appspot.com"
+    "project_number": "79522184374",
+    "firebase_url": "https://poin-df-662ed-default-rtdb.firebaseio.com",
+    "project_id": "poin-df-662ed",
+    "storage_bucket": "poin-df-662ed.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:991678733794:android:72a50724bac4437c226dbb",
+        "mobilesdk_app_id": "1:79522184374:android:90d18b0c2bebc0d8387a17",
         "android_client_info": {
           "package_name": "com.example.poin_df"
         }
       },
       "oauth_client": [
         {
-          "client_id": "991678733794-avemmq8svhpo9pfji0fv58luhua6udfk.apps.googleusercontent.com",
+          "client_id": "79522184374-fh7ebmtlsi67tgu9o4d4a991hm41aq37.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDdnrE5RqArS6gUVYrkqXuLYZdIAXhKdnU"
+          "current_key": "AIzaSyA57c2fg2ZutFwxANyqmyPTS-_dfR1agGA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "991678733794-avemmq8svhpo9pfji0fv58luhua6udfk.apps.googleusercontent.com",
+              "client_id": "79522184374-fh7ebmtlsi67tgu9o4d4a991hm41aq37.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
