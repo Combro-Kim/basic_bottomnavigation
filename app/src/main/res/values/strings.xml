@@ -6,6 +6,8 @@
     <string name="mypage">내 페이지</string>
     <string name="event">이벤트</string>
 
+    <string name="CLIENT_ID">7j0phai8hj</string>
+
     <string name="facebook_app_id">433233934971320</string>
     <string name="fb_login_protocol_scheme">fb433233934971320</string>
     <string name="facebook_client_token">428d4993d18cf39810dc75520086ce79</string>
