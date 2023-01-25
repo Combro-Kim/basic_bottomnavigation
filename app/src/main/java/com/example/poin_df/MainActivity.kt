@@ -75,6 +75,9 @@ class MainActivity : AppCompatActivity(),OnMapReadyCallback  {
         locationSource = FusedLocationSource(this@MainActivity, LOCATION_PERMISSION_REQUEST_CODE)
         naverMap.locationSource = locationSource
 
+        val marker = Marker()
+        marker.position = LatLng(37.275721,127.132380)
+        marker.map = naverMap
     }
 
     override fun onRequestPermissionsResult(requestCode: Int, permissions: Array<out String>, grantResults: IntArray) {
